@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rolodex/static/css/main.1922ee6d.chunk.css",
-    "main.js": "/rolodex/static/js/main.718c0649.chunk.js",
-    "main.js.map": "/rolodex/static/js/main.718c0649.chunk.js.map",
-    "runtime~main.js": "/rolodex/static/js/runtime~main.230a6f71.js",
-    "runtime~main.js.map": "/rolodex/static/js/runtime~main.230a6f71.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/rolodex/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/rolodex/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/rolodex/index.html",
-    "precache-manifest.f6ed0f32494f95ecb7402a00827b95bc.js": "/rolodex/precache-manifest.f6ed0f32494f95ecb7402a00827b95bc.js",
-    "service-worker.js": "/rolodex/service-worker.js",
-    "static/css/main.1922ee6d.chunk.css.map": "/rolodex/static/css/main.1922ee6d.chunk.css.map"
+    "main.css": "/rolo/static/css/main.1922ee6d.chunk.css",
+    "main.js": "/rolo/static/js/main.eb5775be.chunk.js",
+    "main.js.map": "/rolo/static/js/main.eb5775be.chunk.js.map",
+    "runtime~main.js": "/rolo/static/js/runtime~main.87b16e84.js",
+    "runtime~main.js.map": "/rolo/static/js/runtime~main.87b16e84.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/rolo/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/rolo/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/rolo/index.html",
+    "precache-manifest.f9778583a17eb65e9f650325785c44d3.js": "/rolo/precache-manifest.f9778583a17eb65e9f650325785c44d3.js",
+    "service-worker.js": "/rolo/service-worker.js",
+    "static/css/main.1922ee6d.chunk.css.map": "/rolo/static/css/main.1922ee6d.chunk.css.map"
   }
 }
